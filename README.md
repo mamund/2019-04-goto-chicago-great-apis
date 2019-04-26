@@ -1,12 +1,12 @@
-## 2019-04 GOTO Chicago Great APIs Workshop
+# 2019-04 GOTO Chicago Great APIs Workshop
 
-### Description
+## Description
 
 There are lots of frameworks, tools, and patterns for creating APIs for the Web. But what does it really take? What are the essentials we all need to know? And which tools should every API developer have on hand, ready to use? This workshop, based on the new book "Designing and Building Great APIs" from Pragmatic Publishers answers these and other key questions on how to design, build, deploy, and manage quality APIs.
 
 In this workshop, we'll start with the basics of simple, elegant API design. Just like good UI ensure quality apps, good APIs make it easy to build and maintain top-notch APIs. We'll then cover the three-step process for turning your designs into functional APIs: Sketch-Prototype-Build. Next, we'll explore the basics of API testing and security. Finally, we'll deploy our working, tested, and secure APIs into the cloud and make them easy for find and ready to use.
  
-### Workshop Schedule
+## Workshop Schedule
 
  * 08:00-09:00 - Registration and breakfast
  * 09:00-10:30 - Morning Session One (Web/REST/APIs)
@@ -17,7 +17,7 @@ In this workshop, we'll start with the basics of simple, elegant API design. Jus
  * 14:30-14:45 - Coffee break
  * 14:45-16:00 - Afternoon Session Four (Releasing APIs)
 
-### What You Can Bring to the Workshop
+## What You Can Bring to the Workshop
 
 Whether you are programmer, designer, software architecture, product manager, or just someone interested in APIs, you'll be able to participate in the workshop exercises and review the examples.
 
