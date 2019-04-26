@@ -26,11 +26,11 @@ While you only need to bring your brain and your curiosity, if you like, you can
  * You laptop with wifi & browser
  * Your favorite code editor (vscode, vim, etc)
  * curl (https://curl.haxx.se/download.html)
- * Git & Github (https://git-scm.com/downloads & https://github.com/)
- * NodeJS & npm (https://nodejs.org/en/download/)
- * postman & newman (https://www.getpostman.com/downloads/ & https://www.npmjs.com/package/newman)
- * Auth0 (https://auth0.com/)
- * Heroku (https://signup.heroku.com/ & https://devcenter.heroku.com/articles/heroku-cli)
+ * Git & Github (https://git-scm.com/downloads & https://github.com)
+ * NodeJS & npm (https://nodejs.org/en/download)
+ * postman & newman (https://www.getpostman.com/downloads & https://www.npmjs.com/package/newman)
+ * Auth0 (https://auth0.com)
+ * Heroku (https://signup.heroku.com & https://devcenter.heroku.com/articles/heroku-cli)
  
 
 
