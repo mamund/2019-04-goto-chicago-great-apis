@@ -1,5 +1,7 @@
 # 2019-04 GOTO Chicago Great APIs Workshop
 
+#### GOTO Chicago Workshop Page: https://gotochgo.com/2019/workshops/157
+
 ## Description
 
 There are lots of frameworks, tools, and patterns for creating APIs for the Web. But what does it really take? What are the essentials we all need to know? And which tools should every API developer have on hand, ready to use? This workshop, based on the new book "Designing and Building Great APIs" from Pragmatic Publishers answers these and other key questions on how to design, build, deploy, and manage quality APIs.
